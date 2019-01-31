@@ -16,4 +16,4 @@ const verifyJWT = (message, jwtSecret) => {
   }
 };
 
-export default verifyJWT;
+module.exports = verifyJWT;

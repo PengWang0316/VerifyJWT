@@ -1,6 +1,6 @@
 {
   "name": "@kevinwang0316/jwt-verify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to help parse a JSON web token.",
   "scripts": {
     "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls",
